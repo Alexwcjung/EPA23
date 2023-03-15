@@ -6,3 +6,4 @@
 ---
 
 **bold**
+markdown italic
