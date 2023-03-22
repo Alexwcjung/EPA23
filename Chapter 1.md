@@ -25,5 +25,6 @@
 - An evidence-based approach to pronunciation teaching and teaching materials
   1. Minimal pair practice : some contrasts are considerably more important than others.
 - the effectiveness of segmental instruction versus suprasegmental instruction called for three conditions: a control group, which received no pronunciation instruction, a segmental group, which received insruction on consonants and vowels, and a suprasegmental group, which received prosodic instruction only. Only the suprasegmental group showed a significant improvement in comprehensibility and unrehearsed picture descriptions, although both instructed groups improved on sentences that they read aloud.
+  1. both segments and suprasegmentals have a place in the L2 pronunciation classroom.
 -----
 **bold**
