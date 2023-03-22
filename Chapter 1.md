@@ -17,5 +17,10 @@
   3. simply the ability to talk at length with few pauses.
   4. Speakers who are slow talkers in their L1 are unlikely to be fast talkers in their L2, regardless of their proficiency level as a result of cognitive function.
 + Comprehensibility and intelligibility are more closely related to each other than they are to accent. That is, it is possiblie to be somewhat difficult to understand and yet to be fully intelligible ??
+
+- Nativeness and intelligibility principles
+  1. Vast majority of L2 leaners need only comfortable intelligibility. However, pedagogical practice has not always conformed to the Intelligibility Principle. During the Audiolingual Ara, great emphasis was placed on highly accurate pronunciation.
+  2. few adults learners ever achieve native-like pronunciation in the L2.
+- 
 -----
 **bold**
