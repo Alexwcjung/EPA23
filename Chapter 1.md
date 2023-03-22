@@ -10,7 +10,10 @@
 - Suprasegmentals refers to those aspects of speech that are superimposed on the sequences of sounds that comprise words, phrases, and larger units.
 - Prosody includes word and sentence stress, rhythm, intonation, juncture, and tone.
 
-- comprehensibility : the amount of effort that must be put in to understanding speech
+- comprehensibility : the amount of effort that must be put in to understanding speech.
+- Fluency
+  1. signalled by the presence of absence of hesitation markers, self-repetitions, and filled and unfilled pauses.
+  2. the ability to express their ideas in novel ways, to pun, to make up jokes, to attend to the sound independently of the sense, to vary styles, to create and build on metaphors, and so on.
 + point 2
 -----
 **bold**
