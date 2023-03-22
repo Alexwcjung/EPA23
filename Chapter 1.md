@@ -1,5 +1,5 @@
 # key concepts
-+ point 1
++ Intelligibility : the most fundamental characteristic of successful oral communication. 
 + point 2
 -----
 **bold**
