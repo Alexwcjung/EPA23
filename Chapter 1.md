@@ -16,6 +16,6 @@
   2. the ability to express their ideas in novel ways, to pun, to make up jokes, to attend to the sound independently of the sense, to vary styles, to create and build on metaphors, and so on.
   3. simply the ability to talk at length with few pauses.
   4. Speakers who are slow talkers in their L1 are unlikely to be fast talkers in their L2, regardless of their proficiency level as a result of cognitive function.
-+ point 2
++ Comprehensibility and intelligibility are more closely related to each other than they are to accent. That is, it is possiblie to be somewhat difficult to understand and yet to be fully intelligible ??
 -----
 **bold**
