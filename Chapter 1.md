@@ -28,5 +28,3 @@
   1. both segments and suprasegmentals have a place in the L2 pronunciation classroom.
 
 ** Intelligibility and comprehensibility should be priorities but it is important that teachers be flexiblie in accomodating students' needs and wishes. The question of whether to teach English interdental Fricatives often comes up, given that they are not very important to either intelligibility or comprehensibility even though they are a sailent feature of accent.**
------
-**bold**
