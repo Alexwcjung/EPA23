@@ -21,6 +21,9 @@
 - Nativeness and intelligibility principles
   1. Vast majority of L2 leaners need only comfortable intelligibility. However, pedagogical practice has not always conformed to the Intelligibility Principle. During the Audiolingual Ara, great emphasis was placed on highly accurate pronunciation.
   2. few adults learners ever achieve native-like pronunciation in the L2.
-- 
+
+- An evidence-based approach to pronunciation teaching and teaching materials
+  1. Minimal pair practice
+    1) some contrasts are considerably more important than others.
 -----
 **bold**
