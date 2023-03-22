@@ -1,4 +1,4 @@
-# key points
+# key concepts
 + point 1
 + point 2
 -----
