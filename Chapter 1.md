@@ -23,7 +23,6 @@
   2. few adults learners ever achieve native-like pronunciation in the L2.
 
 - An evidence-based approach to pronunciation teaching and teaching materials
-  1. Minimal pair practice
-    1) some contrasts are considerably more important than others.
+  1. Minimal pair practice : some contrasts are considerably more important than others.
 -----
 **bold**
