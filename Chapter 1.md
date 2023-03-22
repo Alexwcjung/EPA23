@@ -7,7 +7,10 @@
  **If pronunciation patterns get in the way, action is essential. This book covers the concepts needed for understanding whys and hows of assistsing L2 speakers to develop more effective oral pronunciation skills**
 
 - Segmentals : individual constants, vowels
-= d
+- Suprasegmentals refers to those aspects of speech that are superimposed on the sequences of sounds that comprise words, phrases, and larger units.
+- Prosody includes word and sentence stress, rhythm, intonation, juncture, and tone.
+
+- comprehensibility : the amount of effort that must be put in to understanding speech
 + point 2
 -----
 **bold**
