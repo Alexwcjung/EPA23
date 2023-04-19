@@ -20,6 +20,10 @@
      1. Those who drank a small amount of alcohol pronounced words better than did a control group.
      2. Students being deeply hypnotized scored better than who did not.
 
+**Applying research findings in the pronunciation classroom**
++ Mounting evience converges in favor of the view that adult L2 pronunication is both leanable and teachable.
+
+**Age**
 +
 
 
