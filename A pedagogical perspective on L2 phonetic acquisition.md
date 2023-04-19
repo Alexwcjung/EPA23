@@ -6,7 +6,6 @@
 + The Audiolingual instruction began to disappear and Stephen Krashen's Input Hypothesis emerged.
 + **Krashen's theory emerged when Communicative Language Teaching(CLT) movement was gaining currency.**
 + CLT classroom activities were guided by the notion that learners would acquire the necessary aspects of language, including pronunciation through opportunities to communicate.
-+ 
 + **"Two problems with Purcell and Suter study"**
      1. The only dependent variable they considered was the strength of foreign accent. They did not consider speech intelligibility, comprehensibility, fluency, or any fine-grained detailes of their subject's oral productions. **Some heavy accents can still be highly intelligible**
   2. The study is a correlational investigation, rather than a systematically designed experimental study. Correlational studies permit only relatively weak conclusions and disallow causal interpretations. The study, therefore, does not allow us to conclude that instruction is ineffective. 
@@ -29,7 +28,10 @@
 + Intelligible, comprehensible speech is not only possible in adult L2 learners.
 
 **Language experience**
-
++ LOR is not a satisfactory measure of language experience. Rather, actual experience with the L2 is indeed benefical under the right circumstances.
++ Window of Maximal Opportunity 
+     1. Adults learners seem most likely to improve in certain pronunication skills in the the absence of pronunication-specific instruction shortly after arrival in an L2 speaking area.
+     2. Perhaps the limis on production improvement after a certain initail interval result from having repeatedly practiced non-nativelike articulatory patterns.
 
 
 
