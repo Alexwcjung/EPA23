@@ -45,7 +45,7 @@
 + Learners who seek out and exploit opportunities to use the L2 tend to advacne in terms of intelligibility and comprehensibility.
 
 **Aptitude**
-+ Perhaps future research will help us undertand how aptitude relates to the ability to acquire intelligible speech.
++ Perhaps future research will help us understand how aptitude relates to the ability to acquire intelligible speech.
 + Until then, teachers should simply expect variability in learners' success in pronunciation and encourage their efforts to improve.
 
 **Instruction**
