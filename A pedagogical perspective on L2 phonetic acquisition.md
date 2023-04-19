@@ -36,10 +36,10 @@
 + Intelligible, comprehensible speech is not only possible in adult L2 learners but also it is the norm rather than exception.
 
 **Language experience**
-+ LOR is not a satisfactory measure of language experience. Rather, actual experience with the L2 is indeed benefical under the right circumstances.
++ LOR is not a satisfactory measure of language experience. Rather, actual experience with the L2 is.
 + Window of Maximal Opportunity 
      1. Adults learners seem most likely to improve in certain pronunication skills in the the absence of pronunication-specific instruction shortly after arrival in an L2 speaking area.
-     2. Perhaps the limits on production improvement after a certain initail interval result from having repeatedly practiced non-nativelike articulatory patterns.
+     2. Perhaps it is becuase of having repeatedly practiced non-nativelike articulatory patterns.
 
 **Motivational influences**
 + Learners who seek out and exploit opportunities to use the L2 tend to advacne in terms of intelligibility and comprehensibility.
