@@ -41,7 +41,8 @@
 + Until then, teachers should simply expect variability in learners' success in pronunciation and encourage their efforts to improve.
 
 **Instruction**
++ We now know that a number of empirical research on pronunication was built on faulty evidence.
+
+**Summary**
 +
-
-
 **A CLOSER LOOK: Aptitude for pronunciation** 
