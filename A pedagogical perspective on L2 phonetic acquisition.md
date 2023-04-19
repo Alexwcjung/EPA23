@@ -7,6 +7,6 @@
 + **Krashen's theory emerged when Communicative Language Teaching(CLT) movement was gaining currency.**
 + CLT classroom activities were guided by the notion that learners would acquire the necessary aspects of language, including pronunciation through opportunities to communicate.
 + The strength of foreign accent should not be considered as the only dependent variables. Speech intelligibility, comprehensibility, or fluency should be.
-+ **Some heavy accents can still be highly intelligible. 
++ **Some heavy accents can still be highly intelligible**
 
 **A CLOSER LOOK: Aptitude for pronunciation** 
