@@ -24,7 +24,11 @@
 + Mounting evience converges in favor of the view that adult L2 pronunication is both leanable and teachable.
 
 **Age**
-+
++ Producing speech intelligibly is a far more relevant to L2 communication than is a preoccupation with sounding native-like.
++ We do not know what correlation exists between AOL and intelligibility.
++ Intelligible, comprehensible speech is not only possible in adult L2 learners.
+
+**Language experience**
 
 
 
