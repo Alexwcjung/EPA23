@@ -4,8 +4,8 @@
 + Hu et al.(2013) examined in detail the factors contributing to pronunciation aptitude.
 + The study consists of two parts, one a behavioural evaluation and the other an examination of brain activity using functional magnetic resonance imaging(fMRI)
 + For the behavioural component, each speaker recorded an oral reading of a passage and the recordings were rated by 10 listeners. 
-+ The independent(predictor) varialbes consisted of scores on tests of phonetic coding ablitiy, phonological working memory, musical aptitude, verbal and non-verbal IQ, and personality traits. The analysis revealed that phonetic coding ability together with empathy predicted the pronunciation ratings moderately well, with no other significant predictors.
-+ The fMRI portion of the study revealed that the brain activity in the better pronouncers differed from that of the poorer pronouncers.
++ The independent(predictor) variables consisted of scores on tests of phonetic coding ablitiy, phonological working memory, musical aptitude, verbal and non-verbal IQ, and personality traits. The analysis revealed that phonetic coding ability together with empathy predicted the pronunciation ratings moderately well, with no other significant predictors.
++ For the fMRI portion of the study, speakers imitated sentences and the result was that the brain activity in the better pronouncers differed from that of the poorer pronouncers.
 
 **Instruction**
 + Purcell and Suter concluded that L2 pronunciation were beyond the control of L2 teachers.
