@@ -1,4 +1,12 @@
 # A pedagogical perspective on L2 phonetic acquisition
+
+**A CLOSER LOOK: Aptitude for pronunciation** 
++ Hu et al.(2013) examined in detail the factors contributing to pronunciation aptitude.
++ The study consists of two parts, one a behavioural evaluation and the other an examination of brain activity using functional magnetic resonance imaging(fMRI)
++ For the behavioural component, each speaker recorded an oral reading of a passage and the recordings were rated by 10 listeners. 
++ The independent(predictor) varialbes consisted of scores on tests of phonetic coding ablitiy, phonological working memory, musical aptitude, verbal and non-verbal IQ, and personality traits. The analysis revealed that phonetic coding ability together with empathy predicted the pronunciation ratings moderately well, with no other significant predictors.
++ The fMRI portion of the study revealed that the brain activity in the better pronouncers differed from that of the poorer pronouncers.
+
 **Instruction**
 + Purcell and Suter concluded that L2 pronunciation were beyond the control of L2 teachers.
 + That interpretation hastened a movement away from the teaching of pronunciation that had already bgun by the 1970s.
@@ -49,9 +57,4 @@
 + The validity of a critical period remians controversial. The variability appears to be due to a variety of influences that mediate age effects.
 + Learners who gain language experience by interacting regulary in their L2 tend to improve more.
 + Useful instructional strategies include encouraging students to use the L2 outside the classroom by initiating and sustaining interactions.
-**A CLOSER LOOK: Aptitude for pronunciation** 
-+ Hu et al.(2013) examined in detail the factors contributing to pronunciation aptitude.
-+ The study consists of two parts, one a behavioural evaluation and the other an examination of brain activity using functional magnetic resonance imaging(fMRI)
-+ For the behavioural component, each speaker recorded an oral reading of a passage and the recordings were rated by 10 listeners. 
-+ The independent(predictor) varialbes consisted of scores on tests of phonetic coding ablitiy, phonological working memory, musical aptitude, verbal and non-verbal IQ, and personality traits. The analysis revealed that phonetic coding ability together with empathy predicted the pronunciation ratings moderately well, with no other significant predictors.
-+ The fMRI portion of the study revealed that the brain activity in the better pronouncers differed from that of the poorer pronouncers.
+
