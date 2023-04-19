@@ -8,7 +8,7 @@
 + CLT classroom activities were guided by the notion that learners would acquire the necessary aspects of language, including pronunciation through opportunities to communicate.
 + 
 + **"Two problems with Purcell and Suter study"**
-  1. The only dependent variable they considered was the strength of foreign accent. They did not consider speech intelligibility, comprehensibility, fluency, or any fine-grained detailes of their subject's oral productions.
+     1. The only dependent variable they considered was the strength of foreign accent. They did not consider speech intelligibility, comprehensibility, fluency, or any fine-grained detailes of their subject's oral productions.
   2. The study is a correlational investigation, rather than a systematically designed experimental study. Correlational studies permit only relatively weak conclusions and disallow causal interpretations. The study, therefore, does not allow us to conclude that instruction is ineffective. 
 
 
