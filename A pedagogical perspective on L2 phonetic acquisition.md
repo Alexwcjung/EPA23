@@ -49,7 +49,7 @@
 + Until then, teachers should simply expect variability in learners' success in pronunciation and encourage their efforts to improve.
 
 **Instruction**
-+ We now know that a number of empirical research on pronunication was built on faulty evidence.
++ We now know that a number of empirical research on pronunication were built on faulty evidence.
 
 **Summary**
 + That well-known finding has proved misleading because it emphasizes what learnes cannot usually achieve(perfect pronunciation) rather than what they are capable of achieving(intelligible speech)
