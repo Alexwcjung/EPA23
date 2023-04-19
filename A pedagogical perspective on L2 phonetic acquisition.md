@@ -14,6 +14,18 @@
 + Even if some randomeness was involved, the subject group was actually a sample of convenience(i.e. a group of research participants selected on the basis of ready availability and willingness to cooperate).
 + At present we do not know of any true experimental studies of pronunciation instruction. However, several researchers have now published instances of the new best type: quasi-experimental investigations. These have used constrolled intervention without true random group assignment.
 
-+ 
+**Other influences**
++ Several other influences on pronunciation includes gender, Learning styles and personality. 
++ "ego permeability" 
+     1. Those who drank a small amount of alcohol pronounced words better than did a control group.
+     2. Students being deeply hypnotized scored better than who did not.
+
++
+
+
+
+
+
+
 
 **A CLOSER LOOK: Aptitude for pronunciation** 
