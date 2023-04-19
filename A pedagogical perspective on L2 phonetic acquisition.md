@@ -44,5 +44,9 @@
 + We now know that a number of empirical research on pronunication was built on faulty evidence.
 
 **Summary**
-+
++ That well-known finding has proved misleading because it emphasizes what learnes cannot usually achieve(perfect pronunciation) rather than what they are capable of achieving(intelligible speech)
++ Teachers must remember that accent in itself is not the focus of communicative pronunciation instruction.
++ The validity of a critical period remians controversial. The variability appears to be due to a variety of influences that mediate age effects.
++ Learners who gain language experience by interacting regulary in their L2 tend to improve more.
++ Useful instructional strategies include encouraging students to use the L2 outside the classroom by initiating and sustaining interactions.
 **A CLOSER LOOK: Aptitude for pronunciation** 
