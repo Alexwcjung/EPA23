@@ -10,8 +10,8 @@
 + **"Two problems with Purcell and Suter study"**
      1. The only dependent variable they considered was the strength of foreign accent. They did not consider speech intelligibility, comprehensibility, fluency, or any fine-grained detailes of their subject's oral productions.
   2. The study is a correlational investigation, rather than a systematically designed experimental study. Correlational studies permit only relatively weak conclusions and disallow causal interpretations. The study, therefore, does not allow us to conclude that instruction is ineffective. 
-
-
++ The most compelling evaluation of the benefits of instruction on pronunciation would be an experimental investigation in which subjects are randomly assigned to control(no instruction) and instruced conditions and tested prior to and after instruction period.
++ Even if some randomeness was involved, the subject group was actually a sample of convenience(i.e. a group of research participants selected on the basis of ready availability and willingness to cooperate).
 
 + **Some heavy accents can still be highly intelligible**
 + 
