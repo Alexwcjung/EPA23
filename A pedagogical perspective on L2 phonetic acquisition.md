@@ -8,12 +8,12 @@
 + CLT classroom activities were guided by the notion that learners would acquire the necessary aspects of language, including pronunciation through opportunities to communicate.
 + 
 + **"Two problems with Purcell and Suter study"**
-     1. The only dependent variable they considered was the strength of foreign accent. They did not consider speech intelligibility, comprehensibility, fluency, or any fine-grained detailes of their subject's oral productions.
+     1. The only dependent variable they considered was the strength of foreign accent. They did not consider speech intelligibility, comprehensibility, fluency, or any fine-grained detailes of their subject's oral productions. **Some heavy accents can still be highly intelligible**
   2. The study is a correlational investigation, rather than a systematically designed experimental study. Correlational studies permit only relatively weak conclusions and disallow causal interpretations. The study, therefore, does not allow us to conclude that instruction is ineffective. 
 + The most compelling evaluation of the benefits of instruction on pronunciation would be an experimental investigation in which subjects are randomly assigned to control(no instruction) and instruced conditions and tested prior to and after instruction period.
 + Even if some randomeness was involved, the subject group was actually a sample of convenience(i.e. a group of research participants selected on the basis of ready availability and willingness to cooperate).
++ At present we do not know of any true experimental studies of pronunciation instruction. However, several researchers have now published instances of the new best type: quasi-experimental investigations. These have used constrolled intervention without true random group assignment.
 
-+ **Some heavy accents can still be highly intelligible**
 + 
 
 **A CLOSER LOOK: Aptitude for pronunciation** 
