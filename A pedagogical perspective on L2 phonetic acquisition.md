@@ -31,11 +31,17 @@
 + LOR is not a satisfactory measure of language experience. Rather, actual experience with the L2 is indeed benefical under the right circumstances.
 + Window of Maximal Opportunity 
      1. Adults learners seem most likely to improve in certain pronunication skills in the the absence of pronunication-specific instruction shortly after arrival in an L2 speaking area.
-     2. Perhaps the limis on production improvement after a certain initail interval result from having repeatedly practiced non-nativelike articulatory patterns.
+     2. Perhaps the limits on production improvement after a certain initail interval result from having repeatedly practiced non-nativelike articulatory patterns.
 
+**Motivational influences**
++ Learners who seek out and exploit opportunities to use the L2 tend to advacne in terms of intelligibility and comprehensibility.
 
+**Aptitude**
++ Perhaps future research will help us undertand how aptitude relates to the ability to acquire intelligible speech.
++ Until then, teachers should simply expect variability in learners' success in pronunciation and encourage their efforts to improve.
 
-
+**Instruction**
++
 
 
 **A CLOSER LOOK: Aptitude for pronunciation** 
