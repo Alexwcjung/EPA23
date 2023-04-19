@@ -33,7 +33,7 @@
 **Age**
 + Producing speech intelligibly is a far more relevant to L2 communication than is a preoccupation with sounding native-like.
 + We do not know what correlation exists between AOL and intelligibility.
-+ Intelligible, comprehensible speech is not only possible in adult L2 learners.
++ Intelligible, comprehensible speech is not only possible in adult L2 learners but also it is the norm rather than exception.
 
 **Language experience**
 + LOR is not a satisfactory measure of language experience. Rather, actual experience with the L2 is indeed benefical under the right circumstances.
