@@ -28,7 +28,7 @@
      2. Students being deeply hypnotized scored better than who did not.
 
 **Applying research findings in the pronunciation classroom**
-+ Mounting evience converges in favor of the view that adult L2 pronunication is both leanable and teachable.
++ Mounting evience converges in favor of the view that adult L2 pronunication is both learnable and teachable.
 
 **Age**
 + Producing speech intelligibly is a far more relevant to L2 communication than is a preoccupation with sounding native-like.
