@@ -46,12 +46,12 @@ PVI (Pairwise Variability Index)
 -	**A stress-timed language** would be expected to have **high PVI values, a syllable-timed language low PVI values.**
 
 🍀**Prosody, Rhythm and Second Language English Learners**
--	Stress- the most widely studied prosodic feature in L2 speech – has consistently been found to relate to L2 comprehensibility, both at word- and sentence-stress level.
--	Low (2006) suggests that the rhythm of a stress-timed language would be more difficult to acquire than the rhythm of a syllable-timed language, due to the need to reduce vowels and compress syllables in stress-timed languages.  
--	Vowel reduction – a fundamental component of rhythm in English – has been related to measures and perceptions of accentedness and comprehensibility in learners. 
--	The authors reported high correlations between rhythm and proficiency level measured by TOEFL iBT speaking test 
--	Praat was used alongside listener coding of measures to analyze objective pronunciation measures, such as proportion of words with prominent stress, number of prominent syllables per run, overall pitch range and a range of tones. The finding indicated that there are objectively measured differences between high- and low-proficiency learners, but not necessarily between adjacent levels. 
--	As proficiency increased, the proportion of stressed words within a sentence decreased, thus supporting prior research indicating that low-proficiency leaners stress items regardless of their function or importance. 
+-	**Stress**- the most widely studied prosodic feature in L2 speech – has consistently been found to relate to L2 comprehensibility, both at word- and sentence-stress level.
+-	Low (2006) suggests that **the rhythm of a stress-timed language would be more difficult to acquire** than the rhythm of a syllable-timed language, due to the need to **reduce vowels** and **compress syllables in stress-timed languages.**  
+-	**Vowel reduction** – a fundamental component of rhythm in English – has been related to measures and perceptions of accentedness and comprehensibility in learners. 
+-	The authors reported **high correlations between rhythm and proficiency level** measured by TOEFL iBT speaking test 
+-	Praat was used alongside listener coding of measures to analyze objective pronunciation measures, such as proportion of words with prominent stress, number of prominent syllables per run, overall pitch range and a range of tones. The finding indicated that **there are objectively measured differences between high- and low-proficiency learners, but not necessarily between adjacent levels.**
+-	**As proficiency increased, the proportion of stressed words within a sentence decreased**, thus supporting prior research indicating that low-proficiency leaners stress items regardless of their function or importance. 
 
 🍀**Study Aim and Research Questions**
 -	Few studies have systematically examined how rhythm is displayed by L2 learners at different proficiency levels and from controlled L2 backgrounds. 
