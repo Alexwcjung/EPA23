@@ -32,8 +32,7 @@
 -	Accented syllables with full vowels tend to be considerably longer than unaccented syllables which often contain reduced vowels (e.g. /I/ in ‘strict’, ‘if’ and ‘-ly’).
 
 🍀**Rhythm Metrics**
--	A number of metrics have been developed to quantify rhythm in (learner) speech
-%V (Proportion of vocalic material in speech)
+-	A number of metrics have been developed to **_quantify rhythm in (learner) speech**_ %V (Proportion of vocalic material in speech)
 -	The proportion of the vocalic interval duration in speech is expressed as a percentage from the total utterance duration: %V (i.e. comparing the amount of material in the grey against the striped boxes in Figure 9.1).
 -	In a stressed-timed language such as English, %V would typically be lower due to vowel reduction and to the presence of consonant clusters, compared to syllable-timed languages such as Spanish. 
 
