@@ -18,6 +18,7 @@
 2. In syllable-timed languages
 - The durations of syllables tend to be equal.
 - Syllables have more equal duration and prominence, with little or no vowel reduction.
+----------
 -	A summary of key properties is provided in Table 9.1
 -	Although the rhythmic distinctions between stress-timed and syllable-timed languages have been empirically supported, many instrumental studies have failed to find constant and systematic evidence to support the dichotomous approach to categorizing languages. 
 -	Rather than categorizing languages in terms of two distinct rhythm classes, crosslinguistic differences in rhythm are now accounted for in terms of a continuous model of rhythm in which a combination of language-specific properties (besides more general factors such as speaking rate) result in different rhythmic patterning gradients along a continuum.
