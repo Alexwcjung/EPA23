@@ -38,7 +38,7 @@
 
 🍀**Varco-V and Varco-C (variability in vocalic or consonantal duration)**
 -	To measure the variability in vocalic or consonantal interval duration, Dellwo developed Varco-C, which calculates the standard deviation of consonantal interval duration (normalized for speech rate) as well as vocalic counterpart Varco-V.
--	Typically, this variability is expected to be larger in syllable structures associated with a stress-timed language (e.g. some syllables have complex consonant clusters and some simple structures) and greater accentual and final lengthening. 
+-	Typically, **this variability is expected to be larger** in syllable structures associated with **a stress-timed language**(e.g. some syllables have complex consonant clusters and some simple structures) and greater accentual and final lengthening. 
 -	In syllable-timed language, in contrast, a large proportion of syllables have a simple CV structure and successive syllables are more similar in length, leading to lower variability values.
 PVI (Pairwise Variability Index)
 -	Other measures capture rhythm more locally by focusing on the degree of durational difference between neighboring intervals.
