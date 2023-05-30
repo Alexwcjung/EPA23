@@ -7,7 +7,6 @@
 -	This is because of the difficulty in distinguishing across pronunciation ability levels in the same way as other language skills and the difficulty in interpreting descriptors of pronunciation consistently across languages.
 -	The underdeveloped nature of the pronunciation construct is also seen in the challenge presented by pronunciation for teachers and examiners: studies have indicated that examiners find the assessment of pronunciation to be more challenging than that of other skills.
 -	Teachers have been found to lack training and confidence in their pronunciation expertise (Levis, 2006)
--	Proficiency emerges with the acquisition of phonology, morphosyntax and information structure and mapping between them (Post et al., 2010) but phonological and prosodic acquisition can be out of step with acquisition in other areas of language competence at higher levels.
 -	The study aims to establish a profile of the rhythmic properties of learner speech at different proficiency levels, which can in turn contribute towards a more comprehensive definition and operationalization of the construct of L2 pronunciation.
 -	A broader aim is to raise awareness about micro-level features of rhythm and prosody which play a role in learner speech, and which teachers and assessors are likely to benefit from.
 
