@@ -9,7 +9,8 @@
 -	Proficiency emerges with the acquisition of phonology, morphosyntax and information structure and mapping between them (Post et al., 2010) but phonological and prosodic acquisition can be out of step with acquisition in other areas of language competence at higher levels.
 -	The study aims to establish a profile of the rhythmic properties of learner speech at different proficiency levels, which can in turn contribute towards a more comprehensive definition and operationalization of the construct of L2 pronunciation.
 -	A broader aim is to raise awareness about micro-level features of rhythm and prosody which play a role in learner speech, and which teachers and assessors are likely to benefit from.
-Role of Rhythm in English Speech
+
+**Role of Rhythm in English Speech**
 -	Rhythm has traditionally been seen as a key distinguishing feature between languages, with stress-timed and syllable-time languages. 
 -	In stress-timed languages
 	the durations between each stressed syllable tend to be approximately equal.
@@ -24,7 +25,7 @@ Role of Rhythm in English Speech
 -	The effect of syllable structure can be seen when we compare intervals that contain complex consonant clusters (e.g. /str/ in ‘strictly’) with those that contain singleton consonants (e.g. /t/ in ‘team’).
 -	Accented syllables with full vowels tend to be considerably longer than unaccented syllables which often contain reduced vowels (e.g. /I/ in ‘strict’, ‘if’ and ‘-ly’). 
 
-Rhythm Metrics
+**Rhythm Metrics**
 -	A number of metrics have been developed to quantify rhythm in (learner) speech
 %V (Proportion of vocalic material in speech)
 -	The proportion of the vocalic interval duration in speech is expressed as a percentage from the total utterance duration: %V (i.e. comparing the amount of material in the grey against the striped boxes in Figure 9.1).
@@ -39,7 +40,7 @@ PVI (Pairwise Variability Index)
 -	PVI metric calculates the mean of the durational differences between successive temporal intervals in an intonation phrase. 
 -	A stress-timed language would be expected to have high PVI values, a syllable-timed language low PVI values.
 
-Prosody, Rhythm and Second Language English Learners
+**Prosody, Rhythm and Second Language English Learners**
 -	Stress- the most widely studied prosodic feature in L2 speech – has consistently been found to relate to L2 comprehensibility, both at word- and sentence-stress level.
 -	Low (2006) suggests that the rhythm of a stress-timed language would be more difficult to acquire than the rhythm of a syllable-timed language, due to the need to reduce vowels and compress syllables in stress-timed languages.  
 -	Vowel reduction – a fundamental component of rhythm in English – has been related to measures and perceptions of accentedness and comprehensibility in learners. 
@@ -47,7 +48,7 @@ Prosody, Rhythm and Second Language English Learners
 -	Praat was used alongside listener coding of measures to analyze objective pronunciation measures, such as proportion of words with prominent stress, number of prominent syllables per run, overall pitch range and a range of tones. The finding indicated that there are objectively measured differences between high- and low-proficiency learners, but not necessarily between adjacent levels. 
 -	As proficiency increased, the proportion of stressed words within a sentence decreased, thus supporting prior research indicating that low-proficiency leaners stress items regardless of their function or importance. 
 
-Study Aim and Research Questions
+**Study Aim and Research Questions**
 -	Few studies have systematically examined how rhythm is displayed by L2 learners at different proficiency levels and from controlled L2 backgrounds. 
 -	The aim of this study, therefore, is to offer a more comprehensive empirically based investigation of rhythm in L2 speech than that given in previous studies in order to establish to what extent rhythmic measures can discriminate between proficiency levels.
 -	We do so through a small-scale quantitative investigation of objectively measureable micro-level prosodic rhythmic features in the speech of learners at different proficiency levels and controlling for learner L2 background.
