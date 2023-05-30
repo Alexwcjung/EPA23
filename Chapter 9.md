@@ -25,7 +25,7 @@
 -	As figure 9.1 shows, syllable boundaries do not necessarily coincide with the edges of words (e.g. in ‘if you’ the /f/ forms a syllable with the following word /ju:/), nor with the intervals that contain the sequences of vocalic or consonantal material (e.g. in ‘strictly’, the second consonantal interval straddles a syllable boundary). 
 -	The figure also illustrates that the intervals are delimited by major phrase boundaries (marked by a silent pause # in this example). 
 -	The effect of syllable structure can be seen when we compare intervals that contain complex consonant clusters (e.g. /str/ in ‘strictly’) with those that contain singleton consonants (e.g. /t/ in ‘team’).
--	Accented syllables with full vowels tend to be considerably longer than unaccented syllables which often contain reduced vowels (e.g. /I/ in ‘strict’, ‘if’ and ‘-ly’). 
+-	Accented syllables with full vowels tend to be considerably longer than unaccented syllables which often contain reduced vowels (e.g. /I/ in ‘strict’, ‘if’ and ‘-ly’).
 
 🍀**Rhythm Metrics**
 -	A number of metrics have been developed to quantify rhythm in (learner) speech
