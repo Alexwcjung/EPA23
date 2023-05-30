@@ -12,6 +12,7 @@
 
 🍀**Role of Rhythm in English Speech** 
 -	Rhythm has traditionally been seen as **a key distinguishing feature between languages**, with stress-timed and syllable-time languages. 
+-	------
 1. In stress-timed languages 
  + The durations between each stressed syllable tend to be approximately equal.
  + Stressed syllables are significantly longer than unstressed syllables and unstressed syllables which occur between consecutive stressed syllables are compressed (e.g. through vowel reduction) to fit into the time interval. 
