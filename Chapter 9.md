@@ -11,7 +11,7 @@
 -	A broader aim is to raise awareness about micro-level features of rhythm and prosody which play a role in learner speech, and which teachers and assessors are likely to benefit from.
 
 🍀**Role of Rhythm in English Speech** 
--	Rhythm has traditionally been seen as a key distinguishing feature between languages, with stress-timed and syllable-time languages. 
+-	Rhythm has traditionally been seen as **a key distinguishing feature between languages**, with stress-timed and syllable-time languages. 
 -	In stress-timed languages
 	the durations between each stressed syllable tend to be approximately equal.
 	Stressed syllables are significantly longer than unstressed syllables and unstressed syllables which occur between consecutive stressed syllables are compressed (e.g. through vowel reduction) to fit into the time interval. 
