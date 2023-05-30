@@ -20,7 +20,7 @@
 - Syllables have more equal duration and prominence, with little or no vowel reduction.
 ----------
 -	A summary of key properties is provided in Table 9.1
--	![image](https://github.com/Alexwcjung/EPA23/assets/127401494/fbfe9583-fce5-412b-a1bb-542eb3018550)
+	![image](https://github.com/Alexwcjung/EPA23/assets/127401494/fbfe9583-fce5-412b-a1bb-542eb3018550)
 
 
 -	Although the rhythmic distinctions between stress-timed and syllable-timed languages have been empirically supported, many instrumental studies have failed to find constant and systematic evidence to support the dichotomous approach to categorizing languages. 
