@@ -31,7 +31,7 @@
 -	The proportion of the vocalic interval duration in speech is expressed as a percentage from the total utterance duration: %V (i.e. comparing the amount of material in the grey against the striped boxes in Figure 9.1).
 -	In a stressed-timed language such as English, %V would typically be lower due to vowel reduction and to the presence of consonant clusters, compared to syllable-timed languages such as Spanish. 
 
-Varco-V and Varco-C (variability in vocalic or consonantal duration)
+**Varco-V and Varco-C (variability in vocalic or consonantal duration)**
 -	To measure the variability in vocalic or consonantal interval duration, Dellwo developed Varco-C, which calculates the standard deviation of consonantal interval duration (normalized for speech rate) as well as vocalic counterpart Varco-V.
 -	Typically, this variability is expected to be larger in syllable structures associated with a stress-timed language (e.g. some syllables have complex consonant clusters and some simple structures) and greater accentual and final lengthening. 
 -	In syllable-timed language, in contrast, a large proportion of syllables have a simple CV structure and successive syllables are more similar in length, leading to lower variability values.
