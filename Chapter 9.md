@@ -1,4 +1,4 @@
-**Assessing Second Language Pronunciation: Distinguishing Features of Rhythm in Learner Speech at Different Proficiency Levels**
+🍀**Assessing Second Language Pronunciation: Distinguishing Features of Rhythm in Learner Speech at Different Proficiency Levels**
 **Introduction**
 -	While pronunciation is clearly an important skill, and insufficient pronunciation ability is detrimental to the intelligibility of speech, it has a surprisingly minor role in theoretical L2 models, in assessment scales of speaking, and in practical assessment and teaching contexts involving examiners, teachers and learners.
 -	The backstage role of pronunciation in theoretical models is also reflected in some well-known assessment scales, where pronunciation tends to be captured inconsistently or to be entirely absent. 
