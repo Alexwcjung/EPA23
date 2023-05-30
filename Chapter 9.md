@@ -54,8 +54,8 @@ PVI (Pairwise Variability Index)
 -	**As proficiency increased, the proportion of stressed words within a sentence decreased**, thus supporting prior research indicating that low-proficiency leaners stress items regardless of their function or importance. 
 
 🍀**Study Aim and Research Questions**
--	Few studies have systematically examined how rhythm is displayed by L2 learners at different proficiency levels and from controlled L2 backgrounds. 
--	The aim of this study, therefore, is to offer a more comprehensive empirically based investigation of rhythm in L2 speech than that given in previous studies in order to establish to what extent rhythmic measures can discriminate between proficiency levels.
+-	Few studies have systematically examined **how rhythm is displayed by L2 learners at different proficiency levels and from controlled L2 backgrounds.** 
+-	The aim of this study, therefore, is to offer *a more comprehensive empirically based investigation of rhythm in L2 speech* than that given in previous studies in order to establish to what extent rhythmic measures can discriminate between proficiency levels.
 -	We do so through a small-scale quantitative investigation of objectively measureable micro-level prosodic rhythmic features in the speech of learners at different proficiency levels and controlling for learner L2 background.
 -	A broader aim of the study is to contribute a cross-disciplinary perspective to L2 pronunciation through collaboration between L2 phoneticians and language assessment specialists.
 -	The following four research questions guide the study; the first two deal with pronunciation across proficiency levels while the last two deal with pronunciation across L1s.
