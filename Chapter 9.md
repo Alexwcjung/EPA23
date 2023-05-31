@@ -3,9 +3,9 @@
 🍀**Introduction**
 -	While pronunciation is clearly an important skill, and insufficient pronunciation ability is detrimental to the intelligibility of speech, it has a surprisingly _**minor role in theoretical L2 models**_, in assessment scales of speaking, and in practical assessment and teaching contexts involving examiners, teachers and learners.
 -	The backstage role of pronunciation in theoretical models is also reflected in some well-known assessment scales, where pronunciation tends to be captured inconsistently or to be entirely absent. 
--	For example, the ACTFL Proficiency Guidelines for Speaking (ACTFL, 2012) do not include descriptors for pronunciation at every level.
--	This is because of the difficulty in distinguishing across pronunciation ability levels in the same way as other language skills and the difficulty in interpreting descriptors of pronunciation consistently across languages.
--	The underdeveloped nature of the pronunciation construct is also seen in the challenge presented by pronunciation for teachers and examiners: studies have indicated that examiners find the assessment of pronunciation to be more challenging than that of other skills.
+-	For example, the ACTFL Proficiency Guidelines for Speaking (ACTFL, 2012) **do not** include descriptors for pronunciation at every level.
+-	This is because of **the difficulty** in distinguishing across pronunciation ability levels in the same way as other language skills and the difficulty in interpreting descriptors of pronunciation consistently across languages.
+-	**The underdeveloped nature of the pronunciation construct** is also seen in the challenge presented by pronunciation for teachers and examiners: studies have indicated that examiners find the assessment of pronunciation to be more challenging than that of other skills.
 -	Teachers have been found to lack training and confidence in their pronunciation expertise (Levis, 2006)
 -	The study aims to establish a profile of the rhythmic properties of learner speech at different proficiency levels, which can in turn contribute towards a more comprehensive definition and operationalization of the construct of L2 pronunciation.
 -	A broader aim is to raise awareness about micro-level features of rhythm and prosody which play a role in learner speech, and which teachers and assessors are likely to benefit from.
