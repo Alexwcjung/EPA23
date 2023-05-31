@@ -25,8 +25,8 @@
 ![image](https://github.com/Alexwcjung/EPA23/assets/127401494/fbfe9583-fce5-412b-a1bb-542eb3018550)
 
 
--	Although the rhythmic distinctions between stress-timed and syllable-timed languages have been empirically supported, many instrumental studies have failed to find constant and systematic evidence to support the dichotomous approach to categorizing languages. 
--	Rather than categorizing languages in terms of two distinct rhythm classes, crosslinguistic differences in rhythm are now accounted for in terms of a continuous model of rhythm in which a combination of language-specific properties (besides more general factors such as speaking rate) result in different rhythmic patterning gradients along a continuum.
+-	Although the rhythmic distinctions between stress-timed and syllable-timed languages have been empirically supported, **many instrumental studies have failed** to find constant and systematic evidence to support the dichotomous approach to categorizing languages. 
+-	**Rather than categorizing languages in terms of two distinct rhythm classes**, crosslinguistic differences in rhythm are now accounted for **in terms of a continuous model of rhythm in which a combination of language-specific properties** (besides more general factors such as speaking rate) result in different rhythmic patterning gradients along a continuum.
 -	As figure 9.1 shows, syllable boundaries do not necessarily coincide with the edges of words (e.g. in ‘if you’ the /f/ forms a syllable with the following word /ju:/), nor with the intervals that contain the sequences of vocalic or consonantal material (e.g. in ‘strictly’, the second consonantal interval straddles a syllable boundary). 
 -	The figure also illustrates that the intervals are delimited by major phrase boundaries (marked by a silent pause # in this example). 
 -	The effect of syllable structure can be seen when we compare intervals that contain complex consonant clusters (e.g. /str/ in ‘strictly’) with those that contain singleton consonants (e.g. /t/ in ‘team’).
