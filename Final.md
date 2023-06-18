@@ -12,7 +12,7 @@
 
 3. **Set learning objectives:** Clearly outline the pronunciation learning objectives for your target group. Consider both segmental (phonemes) and suprasegmental (stress, intonation, rhythm) aspects of pronunciation. Develop goals that are specific, measurable, achievable, relevant, and time-bound (SMART).
 
-5. **Create lesson a sample plan:** Develop one or two mini activies for one of the lessons, including the following components:
+4. **Create lesson a sample plan:** Develop one or two mini activies for one of the lessons, including the following components:
 
 + a. Lesson objectives
 + b. Warm-up activities: processes needed to be detailed.
