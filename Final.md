@@ -2,16 +2,17 @@
 
 ## **Objective:** 
 - Create a pronunciation-focused curriculum tailored to a specific group of English learners (beginners, intermediate, or advanced).
+- 
 
 ## **♒Instructions:**
 
-1. **Define your target group:** Choose a specific group of English learners for whom you will create the curriculum (e.g., beginners, intermediate, or advanced). Consider their age, language background, and learning needs when making your choice.
+1. **Target group:** 1st grade Vocational High school students whos English level is beginners. They are 17 years old, native speakers of Korean language, and had little English education. Their interest level in English is low. 
 
-2. **Determine the curriculum duration:** Decide on the duration of your curriculum (e.g., a 7-week course, a semester-long program). Ensure that the chosen duration is appropriate for your target group and allows for measurable progress.
+2. **Curriculum duration:** This curriculum lasts for a semester. Considering that the target group has low level of interest and proficiency of English,  Decide on the duration of your curriculum (e.g., a 7-week course, a semester-long program). Ensure that the chosen duration is appropriate for your target group and allows for measurable progress.
 
-3. **Set learning objectives:** Clearly outline the pronunciation learning objectives for your target group. Consider both segmental (phonemes) and suprasegmental (stress, intonation, rhythm) aspects of pronunciation. Develop goals that are specific, measurable, achievable, relevant, and time-bound (SMART).
+4. **Set learning objectives:** Clearly outline the pronunciation learning objectives for your target group. Consider both segmental (phonemes) and suprasegmental (stress, intonation, rhythm) aspects of pronunciation. Develop goals that are specific, measurable, achievable, relevant, and time-bound (SMART).
 
-4. **Create lesson a sample plan:** Develop one or two mini activies for one of the lessons, including the following components:
+5. **Create lesson a sample plan:** Develop one or two mini activies for one of the lessons, including the following components:
 
 + a. Lesson objectives
 + b. Warm-up activities: processes needed to be detailed.
