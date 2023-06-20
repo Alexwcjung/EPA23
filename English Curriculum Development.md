@@ -9,10 +9,10 @@ Practical English course for vocational high school students (2 Credits)
 This course will explore English pronunciation learning for foreign language learners. Topics will include the description and articulation of sounds of English, segmental (phoneme) aspects, and suprasegmental (stress, intonation, rhythm) aspects of English pronunciation. Learning about places and manners of articulation will help students notice how English sounds differ from their native language. Additionally, students will be provided with ample opportunities to practice English sounds using digital resources, which will enable them to visualize and analyze their speech patterns. A variety of exposure to authentic materials, AI technologies, and online videos will help upgrade their speaking proficiency as well. By the end of the course, students will have developed a basic understanding of English sounds and be able to produce intelligible speech.
 
 ## 🍃 Course Objectives
-By the end of the course, students will be able to
-+ Develop a basic knowledge of speech production especially segmental and suprasegmental aspects.
-+ Develop an understanding of acoustic properties in a form of spectrographic analysis and waveform analysis.
-+ Use automated speech tools, AI tools to practice and improve their pronunciation and hence their speech intelligibility.
+By the end of the course, students will be able to:
++ Develop a basic knowledge of speech production, especially segmental and suprasegmental aspects.
++ Develop an understanding of acoustic properties in the form of spectrographic analysis and waveform analysis.
++ Use automated speech tools and AI tools to practice and improve their pronunciation and, hence, their speech intelligibility.
 
 ## 🍃 Course Schedule and Activities
 
