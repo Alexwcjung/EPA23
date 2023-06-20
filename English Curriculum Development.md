@@ -10,9 +10,9 @@ This course will explore English pronunciation learning for foreign language lea
 
 ## 🍃 Course Objectives
 By the end of the course, students will be able to:
-+ Develop a basic knowledge of speech production, especially segmental and suprasegmental aspects.
-+ Develop an understanding of acoustic properties in the form of spectrographic analysis and waveform analysis.
-+ Use automated speech tools and AI tools to practice and improve their pronunciation and, hence, their speech intelligibility.
++ Develop a basic knowledge of English sounds, including segmental (phoneme) and suprasegmental (stress, intonation, rhythm) aspects.
++ Develop an understanding of acoustic properties through spectrographic analysis and waveform analysis. 
++ Use a variety of methods and tools to practice and improve their pronunciation proficiency, and hence, their speech intelligibility.
 
 ## 🍃 Course Schedule and Activities
 
