@@ -1,4 +1,4 @@
-# 📕 English Pronunciation Teaching (Spring 2023)
+# 📕 English Pronunciation Teaching
 Practical English course for vocational high school students (2 Credits)
 
 |Instructor|E-mail|Github ID|
