@@ -30,7 +30,7 @@ By the end of the course, students will be able to
 |W010|Midterm| [Praat](https://www.fon.hum.uva.nl/praat/), [Speechnotes](https://speechnotes.co/)
 
 ## 🍃 Assessment
-1. Formative assessment  
+1. Formative assessment
 * ✅ Rubric : Your speech intonation has to be as similar as that of native speaker possible. If your pitch curve on Praat is opposite that of native speaker, three points will be deducted each curve.
 + ✅ Feedback : The image of your pitch wave will be compared with that of the native speaker on TTS. The differences will be marked and posted on Padlet
 2. Summative assessment
