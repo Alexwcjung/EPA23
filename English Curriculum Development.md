@@ -19,7 +19,7 @@ By the end of the course, students will be able to
 |Wk#|Topics|Activities & Assignments|
 |--|------------|--|
 |W01|Course overview; Setting up basic tools; Introduction| [Speechnotes](https://speechnotes.co/), [Praat](https://www.fon.hum.uva.nl/praat/)
-|W02|What is sound? The vocal tract 
+|W02|What is sound?, The vocal tract 
 |W03|Voicing, Places of articulation(consonants)
 |W04|Manners of articulation (consonants and vowels)
 |W05|Vowels, tongue position, lip position, tenseness| [Praat](https://www.fon.hum.uva.nl/praat/)
