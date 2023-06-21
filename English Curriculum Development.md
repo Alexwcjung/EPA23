@@ -30,12 +30,12 @@ By the end of the course, students will be able to:
 |W010|Midterm| [Praat](https://www.fon.hum.uva.nl/praat/), [Speechnotes](https://speechnotes.co/)
 
 ## 🍃 Assessment
-1. Formative assessment:
-+ ✅ Rubric: Your speech intonation should be as similar as possible to that of a native speaker. Each time your pitch curve on Praat shows the opposite direction of that of a native speaker, three points will be deducted.
-+ ✅ Feedback: The image of your pitch wave will be compared with that of the native speaker on TTS. The differences will be marked and posted on Padlet.
-  
-2. Summative assessment:
-+ Step 1: Choose seven words that Koreans often add one or more vowels to (e.g., site, cake).
-+ Step 2: Record on Praat. When pronouncing a word, you must (1) pronounce the word with vowel insertion and (2) pronounce it without vowel insertion. You should aim to show the difference between (1) and (2) as clearly as possible.
-+ ✅Rubric: Each time you are judged to have added a vowel to a consonant in your waveform, two points will be deducted.
-+ ✅ Feedback: The image of your pitch wave will be compared with that of a native speaker. The difference will be marked and posted on Padlet.
+1. Formative Assessment:
++ ✅ Rubric: Your speech intonation should closely resemble that of a native speaker. For each instance where your pitch curve on Praat shows the opposite direction of that of a native speaker, three points will be deducted.
++ ✅ Feedback: The image of your pitch wave will be compared with that of the native speaker on TTS. Differences will be identified and posted on Padlet for your reference.
+
+2. Summative Assessment:
++ Step 1: Select seven words commonly prone to vowel insertion by Korean speakers (e.g., site, cake).
++ Step 2: Utilize Praat to record your pronunciation. When pronouncing each word, you should (1) pronounce it with vowel insertion and (2) pronounce it without vowel insertion. Aim to demonstrate the difference between (1) and (2) as distinctly as possible.
++ ✅ Rubric: For each instance where it is determined that you added a vowel to a consonant in your waveform, two points will be deducted.
++ ✅ Feedback: The image of your pitch wave will be compared with that of a native speaker. Discrepancies will be identified, marked, and posted on Padlet for your review.
