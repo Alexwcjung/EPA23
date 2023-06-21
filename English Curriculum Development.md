@@ -1,4 +1,4 @@
-# 📕 Precision in Pronunciation: A Pathway to Fluent English
+# 📕 Speak with Confidence: The Art of English Pronunciation
 **Practical English for Vocational High School Students (2 Credits)**
 
 |Instructor|E-mail|Github ID|
