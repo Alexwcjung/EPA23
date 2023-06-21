@@ -1,4 +1,4 @@
-# 📕 English Pronunciation Teaching
+# 📕 An introduction to English Pronunciation
 **Practical English for Vocational High School Students (2 Credits)**
 
 |Instructor|E-mail|Github ID|
