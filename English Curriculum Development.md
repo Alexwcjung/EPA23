@@ -1,4 +1,4 @@
-# 📕 Polish Your Pronunciation: A Practical English Pronunciation Course
+# 📕 Precision in Pronunciation: A Pathway to Fluent English
 **Practical English for Vocational High School Students (2 Credits)**
 
 |Instructor|E-mail|Github ID|
