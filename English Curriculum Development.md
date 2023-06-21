@@ -39,3 +39,12 @@ By the end of the course, students will be able to:
 + Step 2: Utilize Praat to record your pronunciation. When pronouncing each word, you should (1) pronounce it with vowel insertion and (2) pronounce it without vowel insertion. Aim to demonstrate the difference between (1) and (2) as distinctly as possible.
 + ✅ Rubric: For each instance where it is determined that you added a vowel to a consonant in your waveform, two points will be deducted.
 + ✅ Feedback: The image of your pitch wave will be compared with that of a native speaker. Discrepancies will be identified, marked, and posted on Padlet for your review.
+
+## ✅ Assessment tools and supplement materials 
+|   |Keywords|Python notebook|Description|
+|---|---|---|---|
+| 1  | Text-to-Speech (gTTS) | [gtts](https://github.com/MK316/Teachingapps/blob/main/gTTS.ipynb)  | Converting written texts to spoken words  |   |
+| 2 | Speech-to-Text |   |  Converting spoken data to written texts |   |
+| 3  |Speechnotes  | [Speechnotes](https://speechnotes.co/)  |Creating images based on text description |   |
+|4 | chatGPT  | [Code page](https://github.com/MK316/Teachingapps/blob/main/chatGPT_Gradio.ipynb)  |  
+|5| Praat | [Praat](https://www.fon.hum.uva.nl/praat/) | ||
