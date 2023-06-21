@@ -1,4 +1,4 @@
-# 📕 An introduction to English Pronunciation
+# 📕 Polish Your Pronunciation: A Practical English Pronunciation Course
 **Practical English for Vocational High School Students (2 Credits)**
 
 |Instructor|E-mail|Github ID|
