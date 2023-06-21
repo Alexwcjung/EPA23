@@ -29,6 +29,9 @@ By the end of the course, students will be able to:
 |W09|Stress, Intonation, Rhythm| [Praat](https://www.fon.hum.uva.nl/praat/), [Speechnotes](https://speechnotes.co/)
 |W010|Midterm| [Praat](https://www.fon.hum.uva.nl/praat/), [Speechnotes](https://speechnotes.co/)
 
+## 🍃 Micro-teaching
+[My class] (https://colab.research.google.com/github/Alexwcjung/EPA23/blob/main/EPA23_JWC.ipynb#scrollTo=48uCQ0H3pEvw))
+
 ## 🍃 Assessment
 1. Formative Assessment:
 + ✅ Rubric: Your speech intonation should closely resemble that of a native speaker. For each instance where your pitch curve on Praat shows the opposite direction of that of a native speaker, three points will be deducted.
