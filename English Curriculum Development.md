@@ -40,7 +40,7 @@ By the end of the course, students will be able to:
 + ✅ Rubric: For each instance where it is determined that you added a vowel to a consonant in your waveform, two points will be deducted.
 + ✅ Feedback: The image of your pitch wave will be compared with that of a native speaker. Discrepancies will be identified, marked, and posted on Padlet for your review.
 
-## 🍃 Assessment
+## 🍃 Asseement & supplement tools
 |   |Keywords|Python notebook|Description|
 |---|---|---|---|
 | 1  | Text-to-Speech (gTTS) | [gtts](https://github.com/MK316/Teachingapps/blob/main/gTTS.ipynb)  | Converting written texts to spoken words  |   |
