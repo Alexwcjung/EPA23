@@ -3,7 +3,7 @@ Practical English for Vocational High School Students (2 Credits)
 
 |Instructor|E-mail|Github ID|
 |--|--|--|
-|WCJ|Alexwcjung1130@gmail.com|[Alexwcjung](https://github.com/Alexwcjung)|
+|JungWoochang|Alexwcjung1130@gmail.com|[Alexwcjung](https://github.com/Alexwcjung)|
 
 ## 🍃 Course Description
 This course will explore English pronunciation learning for foreign language learners. Topics will include the description and articulation of sounds of English, segmental (phoneme) aspects, and suprasegmental (stress, intonation, rhythm) aspects of English pronunciation. Learning about places and manners of articulation will help students notice how English sounds differ from their native language. Additionally, students will be provided with ample opportunities to practice English sounds using digital resources, which will enable them to visualize and analyze their speech patterns. A variety of exposure to authentic materials, AI technologies, and online videos will help upgrade their speaking proficiency as well. By the end of the course, students will have developed a basic understanding of English sounds and be able to produce intelligible speech.
