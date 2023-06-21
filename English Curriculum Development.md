@@ -55,6 +55,6 @@ By the end of the course, students will be able to:
 |01|[Grouping](https://github.com/MK316/classtools/blob/main/random_grouping.ipynb)|random grouping with size N for inclass activities, save file to Google drive|
 |02|[Creating sample data](https://github.com/MK316/classtools/blob/main/CreateSample.ipynb)|create a datafrome with randomly generated data|
 |03|[gTTS basic setting](https://github.com/MK316/classtools/blob/main/gTTS.ipynb)|gTTS simple setting|
-|04|[Story telling with images](https://github.com/MK316/classtools/blob/main/story_plus_image.ipynb)|Storyboard with images created using Midjourney openAI|
+|04|[Story telling with images](https://github.com/MK316/classtools/blob/main/story_plus_image.ipynb)|Creating images from text using DALL·E : OpenAI |
 |05|[Create QR code](https://github.com/MK316/classtools/blob/main/QRcode.ipynb)|Generating QR code for a url link|
 
